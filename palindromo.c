@@ -29,3 +29,5 @@ int main(){
         printf("Não é palindromo\n");
     return 0;
 }
+
+//use a stack.c e stack.h
